@@ -2,6 +2,7 @@
 This is a bullet hell, with procedurally generated levels, filled with enemies that aim to shoot down the player, avaliable both in single player and 2 player coop!
 
 [Demo](_Dominykas_Jucys-ApertureScience_PS5_Game.mp4)
+![Game](media/gifs/Gameplay-Start.gif)
 
 ## My Contributions
 - **2D to 3D** - I singlehandedly ported over the game from Box2D to Jolt. After a couple of days, I understood how Jolt works, and had to implement some helper functions to make sure my teammates could make use of it properly, and without the hassle of having to delve into the documentation themselves.
