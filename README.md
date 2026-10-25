@@ -1,7 +1,6 @@
 # Aperture-PS5
-This is a bullet hell, with procedurally generated levels, filled with enemies that aim to shoot down the player, avaliable both in single player and 2 player coop!
-
-[Demo](_Dominykas_Jucys-ApertureScience_PS5_Game.mp4)
+This is a bullet hell dungeon crawler developed using the Abertay in-house engine, made for the PS5 Dev Kit, with local coop support and procedural levels, with rebindable controls! It was a challenge, but much was learnt from the project, such as better time management, how to better divvy up tasks in a team, and generally getting used to ECS and the PS5 ecosystem.
+[The gameplay part of the video is downloadable](_Dominykas_Jucys-ApertureScience_PS5_Game.mp4) as the rest of it is the team discussing their contributions, though since embeds are not as easy on GitHub, GIFs have been provided.
 ![Game](media/gifs/Gameplay-Start.gif)
 
 ## My Contributions
